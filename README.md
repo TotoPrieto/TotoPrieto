@@ -1,4 +1,4 @@
-## Hi there, I'm Toto Prieto 👋
+## Hi there, I'm Tomas Prieto 👋
 
 Advanced computing engineering student at [UNLP](https://www.unlp.edu.ar/)  
 Interested in:
