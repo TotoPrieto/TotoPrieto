@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Toto Prieto 👋
+
+Advanced computing engineering student at [UNLP](https://www.unlp.edu.ar/)  
+Interested in:
+- Microcontrollers
+- Robotics
+- Embedded systems/IOT
+- Cloud Computing
+
+
 
 <!--
 **TotoPrieto/TotoPrieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
